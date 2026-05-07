@@ -1,0 +1,103 @@
+[input]
+html_selector = "main"
+base_directory = "C:\\Users\\aaech\\Documents\\GitHub\\mabelechols.github.io"
+
+[[input.files]]
+path = "theatre/nine-to-five-sns/index.html"
+url = "/pages/9-to-5.html"
+title = "9 to 5"
+
+[[input.files]]
+path = "engineering/ald/index.html"
+url = "/pages/open-source-atomic-layer-deposition-ald-chamber.html"
+title = "Open Source Atomic Layer Deposition (ALD) Chamber"
+
+[[input.files]]
+path = "projects/algan/index.html"
+url = "/pages/thermal-properties-of-algan-using-md.html"
+title = "Thermal Properties of AlGaN using MD"
+
+[[input.files]]
+path = "theatre/beyond-us/index.html"
+url = "/pages/beyond-us.html"
+title = "Beyond Us"
+
+[[input.files]]
+path = "projects/boundary/index.html"
+url = "/pages/boundarypy.html"
+title = "boundary.py"
+
+[[input.files]]
+path = "theatre/carrie-sns/index.html"
+url = "/pages/carrie.html"
+title = "Carrie"
+
+[[input.files]]
+path = "theatre/clue-sns/index.html"
+url = "/pages/clue.html"
+title = "Clue"
+
+[[input.files]]
+path = "contact/index.html"
+url = "/pages/contact-me.html"
+title = "Contact Me"
+
+[[input.files]]
+path = "projects/csam-al/index.html"
+url = "/pages/characterization-of-cold-sprayed-6061-aluminum.html"
+title = "Characterization of Cold Sprayed 6061 Aluminum"
+
+[[input.files]]
+path = "theatre/dodj/index.html"
+url = "/pages/the-death-of-don-juan.html"
+title = "The Death of Don Juan"
+
+[[input.files]]
+path = "theatre/tlm-sns/index.html"
+url = "/pages/the-little-mermaid.html"
+title = "The Little Mermaid"
+
+[[input.files]]
+path = "theatre/missed-connections/index.html"
+url = "/pages/missed-connections-a-craigslist-play.html"
+title = "Missed Connections: A Craigslist Play"
+
+[[input.files]]
+path = "projects/msm-md/index.html"
+url = "/pages/msm-molecular-dynamics.html"
+title = "MSM Molecular Dynamics"
+
+[[input.files]]
+path = "theatre/oklahoma-sns/index.html"
+url = "/pages/oklahoma.html"
+title = "Oklahoma!"
+
+[[input.files]]
+path = "engineering/pill_dispenser/index.html"
+url = "/pages/modular-pill-dispenser.html"
+title = "Modular Pill Dispenser"
+
+[[input.files]]
+path = "engineering/index.html"
+url = "/pages/engineering-portfolio.html"
+title = "Engineering Portfolio"
+
+[[input.files]]
+path = "theatre/rent-sns/index.html"
+url = "/pages/rent.html"
+title = "RENT"
+
+[[input.files]]
+path = "resume/index.html"
+url = "/pages/my-resume.html"
+title = "My Resume"
+
+[[input.files]]
+path = "theatre/something-rotten-sns/index.html"
+url = "/pages/something-rotten.html"
+title = "Something Rotten!"
+
+[[input.files]]
+path = "theatre/index.html"
+url = "/pages/theatrical-portfolio.html"
+title = "Theatrical Portfolio"
